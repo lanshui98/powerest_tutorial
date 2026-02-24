@@ -10,7 +10,11 @@ Example Dataset
 The following are the links for the example dataset used in the `PoweREST` tutorial and paper. 
 
 1. Human intraductal papillary mucinous neoplasms (IPMN) data
-* [GSE233254]("https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233293")
+```
+Heiser, Cody N., et al. "Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors." Cell 186.25 (2023): 5620-5637.
+```
 
 2. Human colorectal cancer (CRC) data
-* [Heiser, et al. (2023)]("https://github.com/Ken-Lau-Lab/spatial_CRC_atlas_imaging")
+```
+Sans, Marta, et al. "Spatial transcriptomics of intraductal papillary mucinous neoplasms of the pancreas identifies NKX6-2 as a driver of gastric differentiation and indolent biological potential." Cancer discovery 13.8 (2023): 1844-1861.
+```
